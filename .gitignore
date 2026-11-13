@@ -28,3 +28,7 @@ models/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated reports and borrower-level outputs
+outputs/reports/
+outputs/plots/
