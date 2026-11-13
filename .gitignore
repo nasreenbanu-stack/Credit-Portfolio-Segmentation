@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Borrower datasets
+data/raw/
+data/processed/
+
+# Trained models
+models/
+*.joblib
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
